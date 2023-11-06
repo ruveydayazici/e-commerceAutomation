@@ -1,5 +1,5 @@
-# HepsiBuradaOtomasyon
- Hepsi Burada Test Otomasyonu
+# E-Ticaret Test Otomasyonu
+ Login, Search, Add Basket, Buy item/s Iterations
 
 This project uses
 
